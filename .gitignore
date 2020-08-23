@@ -1,0 +1,8 @@
+#Directories
+*/bin/*
+*/obj/*
+
+#Files
+*~
+*.c~
+
